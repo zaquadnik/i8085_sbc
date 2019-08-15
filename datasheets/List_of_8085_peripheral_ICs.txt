@@ -1,0 +1,42 @@
+    8085-CPU
+    8155-RAM+ 3 I/O Ports+Timer
+    8156-RAM+ 3 I/O Ports+Timer
+    8185-SRAM
+    8355-16,384-bit (2048 ×8) ROM with I/O
+    8604-4096-bit (512 ×8) PROM
+    8755-EPROM+2 I/O Ports
+    8202-Dynamic RAM Controller
+    8203-Dynamic RAM Controller
+    8205-1 Of 8 Binary Decoder
+    8206-Error Detection & Correction Unit
+    8207-DRAM Controller
+    8210-TTL To MOS Shifter & High Voltage Clock Driver
+    8212-8-bit I/O Port
+    8216-4-bit Parallel Bidirectional Bus Driver
+    8218/8219-Bus Controller
+    8226-4-bit Parallel Bidirectional Bus Driver
+    8231-Arithmetic Processing Unit
+    8232-Floating Point Processor
+    8237-DMA Controller
+    8251-Communication Controller
+    8253-Programmable Interval Timer
+    8254-Programmable Interval Timer
+    8255-Programmable Peripheral Interface
+    8256-Multifunction Support Controller
+    8257-DMA Controller
+    8259-Programmable Interrupt Controller
+    8271-Programmable Floppy Disk Controller
+    8272-Single/Double Density Floppy Disk Controller
+    8273-Programmable HDLC/SDLC Protocol Controller
+    8274-Multi-Protocol Serial Controller
+    8275-CRT Controller
+    8276-Small System CRT Controller
+    8278-Programmable Key Board Interface
+    8279-Key Board/Display Controller
+    8282-8-bit Non-Inverting Latch with Output Buffer
+    8283-8-bit Inverting Latch with Output Buffer
+    8291-GPIB Talker/Listener
+    8293-GPIB Transceiver
+    8294-Data Encryption/Decryption Unit+1 O/P Port
+    8295-Dot Matrix Printer Controller
+
