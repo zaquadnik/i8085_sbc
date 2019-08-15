@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 8085
+D Intel 8085 CPU
+$ENDCMP
+#
+#End Doc Library
